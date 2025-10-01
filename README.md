@@ -1,6 +1,11 @@
 # Project Background
 
 Our client, a recruitment and selection firm, recently faced a surge in job inquiries within the data domain from multiple external sources. While the data contained valuable details about job openings, it was highly unstructured and fragmented, making it extremely difficult to extract insights. Some providers delivered normalised datasets, while others shared centralised tables, resulting in inconsistent formats and disconnected information.
+📊 Dashboard Access  
+
+- View dashboard snapshots in the [visuals/](visuals) folder.  
+- Download the full Power BI file here:  
+  👉 [Recruitment_Dashboard.pbix (Google Drive)](https://drive.google.com/drive/folders/1zAwrwPYSbpA2j_BoeqF3c10KAXPFX3Ch?usp=sharing)  
 
 ## The main challenges with the database included:
 
