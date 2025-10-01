@@ -80,7 +80,8 @@ The company’s main database structure consists of 8 tables sourced from differ
 
  3) Invest in SQL, Python, and Cloud skills pipelines, as they consistently rank top across years.
 
-<img width="933" height="732" alt="image" src="https://github.com/user-attachments/assets/ab1ca9df-1ca7-43df-81ec-6590719f1818" />
+<img width="932" height="732" alt="image" src="https://github.com/user-attachments/assets/ef0c80bf-3eb0-42c0-8441-09a6c65dba25" />
+
 
 # Insights Deep Dive
 ## Category 1: Hiring Trends Over Time
@@ -132,3 +133,16 @@ The company’s main database structure consists of 8 tables sourced from differ
     * SQL, Python, Data Analysis, Cloud (AWS/Azure), Business Analytics
 
  * Soft skills are less mentioned but communication stands out when listed.
+
+
+# Recommendations
+
+  * Marketing / Workforce Strategy → Run campaigns in January and August when hiring peaks.
+
+  * HR & Client Advisory → Encourage clients to offer remote/hybrid roles to remain competitive.
+
+  * Training & Upskilling → Focus on SQL, Python, and Cloud platforms as they dominate demand.
+
+  * Business Development → Prioritize industries needing Data Science and Cloud talent.
+
+  * Operations → Standardize job posting schema to avoid fragmented skill data in future.
